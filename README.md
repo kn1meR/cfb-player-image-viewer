@@ -1,4 +1,4 @@
-# FBS Roster Viewer Pro 🏈
+# FBS Roster Image Viewer Pro 🏈
 
 A modern, fast, and fully-featured desktop desktop application that pulls live college football data directly from ESPN's Core API. It allows users to browse all 138 FBS teams, view live rosters, and pull up high-resolution player headshots and biographical data instantly.
 
