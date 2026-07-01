@@ -12,7 +12,8 @@ Built with Python and **CustomTkinter** for a sleek, dark-mode native interface.
 * **Modern UI/UX:** Built with CustomTkinter, featuring automatic window centering, dynamic column alignment, custom loading throbbers, and graceful error handling for missing player images.
 
 ## Screenshots
-*(Consider adding a screenshot of your app here by uploading it to your repo and linking it like this: `![App Screenshot](image.png)`)*
+<img width="476" height="341" alt="image" src="https://github.com/user-attachments/assets/47194b8f-ef61-4093-b402-9d6e399145c6" />
+
 
 ## Prerequisites
 To run the source code, you will need Python 3 installed on your machine. 
